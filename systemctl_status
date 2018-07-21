@@ -1,0 +1,68 @@
+● localhost.localdomain
+    State: degraded
+     Jobs: 0 queued
+   Failed: 3 units
+    Since: Sat 2018-07-21 16:32:12 UTC; 16min ago
+   CGroup: /
+           ├─lxc
+           │ └─android
+           │   ├─1325 /init --second-stage
+           │   ├─1327 /sbin/ueventd
+           │   ├─1352 /sbin/watchdogd 10 20
+           │   ├─1354 /system/bin/logd
+           │   ├─1361 /system/bin/debuggerd
+           │   ├─1362 /system/bin/debuggerd64
+           │   ├─1363 /system/bin/vold --blkid_context=u:r:blkid:s0 --blkid_untrusted_context=u:r:blkid_untrusted:s0 --fsck_context=u:r:fsck:s0 --fsck_untrusted_context=u:r:fsck_untrusted:s0
+           │   ├─1515 debuggerd64:signaller  
+           │   ├─1565 debuggerd:signaller  
+           │   ├─1588 /system/bin/mcDriverDaemon -r /system/app/FFFFFFFF000000000000000000000001.drbin -r /system/app/mcRegistry/ffffffffd0000000000000000000000a.tlbin -r /system/app/mcRegistry/ffffffffd00000000000000000000016.tlbin -r /system/app/mcRegistry/ffffffffd0000000000000000000001c.tlbin
+           │   ├─1596 /system/bin/lmkd
+           │   ├─1597 /system/bin/servicemanager
+           │   ├─1598 /system/bin/sensorservice
+           │   ├─1599 /system/bin/gpsd
+           │   ├─1601 /system/bin/sensorhubservice
+           │   ├─1602 /system/bin/cameraserver
+           │   ├─1603 /system/bin/drmserver
+           │   ├─1604 /system/bin/installd
+           │   ├─1605 /system/bin/keystore /data/misc/keystore
+           │   ├─1606 media.codec mediacodec
+           │   ├─1607 /system/bin/mediaserver
+           │   ├─1608 /system/bin/netd
+           │   ├─1609 /system/bin/fingerprintd
+           │   ├─1610 /system/bin/gatekeeperd /data/misc/gatekeeper
+           │   └─2066 /system/bin/rild
+           ├─init.scope
+           │ └─1 /sbin/init
+           └─system.slice
+             ├─dbus.service
+             │ └─986 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation
+             ├─cron.service
+             │ └─979 /usr/sbin/cron -f
+             ├─systemd-timesyncd.service
+             │ └─766 /lib/systemd/systemd-timesyncd
+             ├─system-lxc.slice
+             │ └─lxc@android.service
+             │   └─1226 /usr/bin/lxc-start -F -n android
+             ├─systemd-logind.service
+             │ └─980 /lib/systemd/systemd-logind
+             ├─system-getty.slice
+             │ └─getty@tty1.service
+             │   └─1161 /sbin/agetty --noclear tty1 linux
+             ├─ofono.service
+             │ └─1009 /usr/sbin/ofonod -P ril --nodetach
+             ├─systemd-udevd.service
+             │ └─731 /lib/systemd/systemd-udevd
+             ├─polkitd.service
+             │ └─1145 /usr/lib/policykit-1/polkitd --no-debug
+             ├─lxc-net.service
+             │ └─1197 dnsmasq -u lxc-dnsmasq --strict-order --bind-interfaces --pid-file=/run/lxc/dnsmasq.pid --listen-address 10.0.3.1 --dhcp-range 10.0.3.2,10.0.3.254 --dhcp-lease-max=253 --dhcp-no-override --except-interface=lo --interface=lxcbr0 --dhcp-leasefile=/var/lib/misc/dnsmasq.lxcbr0.leases --dhcp-authoritative
+             ├─NetworkManager.service
+             │ └─1011 /usr/sbin/NetworkManager --no-daemon
+             ├─rsyslog.service
+             │ └─976 /usr/sbin/rsyslogd -n
+             └─dropbear.service
+               ├─1026 /usr/sbin/dropbear -p 22 -W 65536
+               ├─1864 /usr/sbin/dropbear -p 22 -W 65536
+               ├─1868 -bash
+               ├─2076 systemctl status
+               └─2077 nc 10.15.19.100 10000
