@@ -1,0 +1,13 @@
+#1  0xf74dccce in __GI___printf_fp_l (fp=fp@entry=0xfffeef68, loc=<optimized out>, info=0xfffeeb34, info@entry=0x0, args=args@entry=0xfffeebb0) at printf_fp.c:1182
+1182	printf_fp.c: No such file or directory.
+(gdb) up
+#2  0xf74dd8a0 in ___printf_fp (fp=fp@entry=0xfffeef68, info=info@entry=0x0, args=args@entry=0xfffeebb0) at printf_fp.c:1257
+1257	in printf_fp.c
+(gdb) up
+#3  0xf74dab14 in _IO_vfprintf_internal (s=s@entry=0xfffeef68, 
+    format=format@entry=0xf70f1bd0 "using (id=%s)\nxres         = %d px\nyres         = %d px\nwidth        = %d mm (%f dpi)\nheight       = %d mm (%f dpi)\nrefresh rate = %.2f Hz\n", ap=..., ap@entry=...) at vfprintf.c:1631
+1631	vfprintf.c: No such file or directory.
+(gdb) up
+#4  0xf74f2ac2 in _IO_vsnprintf (string=0xfffef080 "using (id=)\nxres         = 1080 px\nyres         = 1920 px\nwidth        = 65 mm (", maxlen=<optimized out>, 
+    format=0xf70f1bd0 "using (id=%s)\nxres         = %d px\nyres         = %d px\nwidth        = %d mm (%f dpi)\nheight       = %d mm (%f dpi)\nrefresh rate = %.2f Hz\n", args=...) at vsnprintf.c:114
+114	vsnprintf.c: No such file or directory.

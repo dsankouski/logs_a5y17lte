@@ -1,0 +1,10 @@
+● lxc@android.service - LXC Container: android
+   Loaded: loaded (/lib/systemd/system/lxc@.service; enabled; vendor preset: enabled)
+   Active: active (running) since Sat 2018-07-21 16:32:15 UTC; 5min ago
+     Docs: man:lxc-start
+           man:lxc
+ Main PID: 1226 (lxc-start)
+   Memory: 3.3M
+      CPU: 208ms
+   CGroup: /system.slice/system-lxc.slice/lxc@android.service
+           └─1226 /usr/bin/lxc-start -F -n android
