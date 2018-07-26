@@ -1,0 +1,596 @@
+--------- beginning of main
+07-26 06:43:10.786     6     6 I         : debuggerd: starting
+--------- beginning of system
+07-26 06:43:10.807     8     8 I vold    : Vold 3.0 (the awakening) firing up
+07-26 06:43:10.808     8     8 V vold    : Detected support for: exfat ext4 ntfs vfat
+07-26 06:43:10.815     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.817     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.817     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.817     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.819     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.820     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.821     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.822     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.823     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.827     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.828     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.828     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.828     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.828     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.831     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.831     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.831     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.831     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.831     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.832     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.832     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.833     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.833     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.834     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.834     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.834     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.835     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.839     8    18 D vold    : e4crypt_init_user0
+07-26 06:43:10.840     8    18 D vold    : e4crypt_prepare_user_storage for volume null, user 0, serial 0, flags 1
+07-26 06:43:10.840     8    18 D vold    : Preparing: /data/system/users/0
+07-26 06:43:10.841     8    18 D vold    : Preparing: /data/misc/profiles/cur/0
+07-26 06:43:10.841     8    18 D vold    : Preparing: /data/misc/profiles/cur/0/foreign-dex
+07-26 06:43:10.841     8    18 D vold    : Preparing: /data/system_de/0
+07-26 06:43:10.842     8    18 D vold    : Preparing: /data/misc_de/0
+07-26 06:43:10.842     8    18 D vold    : Preparing: /data/user_de/0
+07-26 06:43:10.843     8    18 D vold    : e4crypt_unlock_user_key 0 serial=0 token_present=0
+07-26 06:43:10.843     8    18 E vold    : Failed to chmod /data/system_ce/0: No such file or directory
+07-26 06:43:10.843     8    18 E vold    : Failed to chmod /data/misc_ce/0: No such file or directory
+07-26 06:43:10.844     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.844     1     1 I vdc     : 200 9 Command succeeded
+07-26 06:43:10.846     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.847     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.847     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.848     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.848     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.848     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.848     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.849     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.849     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.850     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.850     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.852     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.852     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.852     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.852     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.852     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.852     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.853     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.854     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.854     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.854     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.855     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.855     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.855     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.855     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.855     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.855     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.855     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.856     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.857     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.858     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.858     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.859     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.859     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.859     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.859     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.859     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.859     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.859     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.863     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.863     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.863     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.863     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.863     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.863     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.863     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.863    19    19 I /system/bin/tzdatacheck: tzdata file /data/misc/zoneinfo/current/tzdata does not exist. No action required.
+07-26 06:43:10.864     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.865     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.865     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.865     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.865     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.865     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.865     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.865     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.866     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.866     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.866     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.867     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.867     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.867     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.868     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.869     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.869     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.869     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.870     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.871     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.871     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.871     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.871     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.872     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.873     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.873     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.874     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.874     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.875     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.876     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.876     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.879     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.879     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.879     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.881     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.881     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.881     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.881     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.881     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.881     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.881     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.881     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.882     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.882     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.884     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.884     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.885     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.886     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.886     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.886     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.888     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.888     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.888     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.888     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.888     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.888     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.888     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.889     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.889     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.889     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.890     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.890     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.890     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.890     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.890     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.890     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.890     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.890     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.890     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.890     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.891     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.891     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.891     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.892     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.892     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.892     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.892     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.892     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.892     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.892     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.893     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.893     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.893     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.893     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.893     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.893     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.893     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.893     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.893     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.893     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.893     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.893     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.894     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.894     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.894     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.895     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.895     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.895     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.895     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.895     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.895     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.895     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.895     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.895     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.896     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.896     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.896     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.896     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.896     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.897     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.897     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.897     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.897     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.897     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.897     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.897     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.897     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.897     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.898     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.899     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.899     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.899     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.900     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.900     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.900     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.900     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.900     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.900     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.900     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.901     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.901     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.901     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.901     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.901     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.901     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.902     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.902     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.902     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.903     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.903     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.903     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.903     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.904     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.904     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.905     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.906     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.906     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.906     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.906     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.906     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.908     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.908     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.908     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.908     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.908     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.912     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.912     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.912     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.913     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.913     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.913     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.914     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.915     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.916     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.917     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.917     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.917     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.917     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.917     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.917     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.917     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.917     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.918     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.919     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.919     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.919     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.919     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.919     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.920     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.920     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.920     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.921     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.921     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.921     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.922     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.922     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.922     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.923     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.923     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.923     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.923     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.924     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.924     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.924     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.924     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.925     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.925     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.925     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.927     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.927     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.927     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.927     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.928     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.929     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.929     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.929     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.929     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.929     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.930     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.931     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.932     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.933     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.933     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.933     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.934     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.934     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.935     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.935     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.935     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.936     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.937     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.938    32    32 I         : installd firing up
+07-26 06:43:10.940     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.940     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.941     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.942     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.942     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.942     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.942     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.942     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.942     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.942     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.944     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.944     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.944     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.944     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.945     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.945     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.947     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.948     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.950     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.951     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.953     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.953     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.953     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.956     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.956     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.957     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.957     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.957     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.958    24    24 I lowmemorykiller: Using in-kernel low memory killer interface
+07-26 06:43:10.960     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.960     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.960     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.961     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.961     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.961     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.962     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.964     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.965     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.978     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.981     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.982    37    37 I fingerprintd: Starting fingerprintd
+07-26 06:43:10.987     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.987    39    39 I sysinit : Running /system/etc/init.d/00banner 
+07-26 06:43:10.993     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:10.997     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:11.005     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:11.007    38    38 I gatekeeperd: Starting gatekeeperd...
+07-26 06:43:11.007    38    38 W gatekeeperd: falling back to software GateKeeper
+07-26 06:43:11.009     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:11.013     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:11.013    33    33 I keystore: Found keymaster0 module Keymaster OpenSSL HAL, version 2
+07-26 06:43:11.013    33    33 I SoftKeymaster: system/keymaster/soft_keymaster_device.cpp, Line 131: Creating device
+07-26 06:43:11.013    33    33 D SoftKeymaster: system/keymaster/soft_keymaster_device.cpp, Line 132: Device address: 0x7f9cc3e000
+07-26 06:43:11.013    33    33 I keystore: Keymaster0 module is software-only.  Using SoftKeymasterDevice instead.
+07-26 06:43:11.013    33    33 I SoftKeymaster: system/keymaster/soft_keymaster_device.cpp, Line 131: Creating device
+07-26 06:43:11.013    33    33 D SoftKeymaster: system/keymaster/soft_keymaster_device.cpp, Line 132: Device address: 0x7f9cc3e400
+07-26 06:43:11.014    33    33 I keystore: SELinux: Keystore SELinux is disabled.
+07-26 06:43:11.016     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:11.016     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:11.017     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:11.023    29    29 D SensorHubService: nuSensorHubService starting...
+07-26 06:43:11.024     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:11.026     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:11.031     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:11.031     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:11.032    36    36 I Netd    : Netd 1.0 starting
+07-26 06:43:11.032     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:11.032    36    36 D TetherController: Setting IP forward enable = 0
+07-26 06:43:11.033    42    42 I cm      : _ _                                        
+07-26 06:43:11.036    36    36 I QtiConnectivityAdapter: Failed to open libconnctrl, some features may not be present.
+07-26 06:43:11.036    36    36 E         : Failed to open libdatactrl, some features may not be present.
+07-26 06:43:11.036    36    36 E         : Failed to open libcsm_data, some features may not be present.
+07-26 06:43:11.038    29    29 E Sensorhubs: !@check sensor_device, nodeNumber: 6, deviceName: ssp_context
+07-26 06:43:11.038    29    29 E Sensorhubs: !@check sensor_device, matched ssp_context
+07-26 06:43:11.041     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:11.043     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:11.045     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:11.045     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:11.050    43    43 I cm      : | (_)_ __   ___  __ _  __ _  ___  ___  ___  
+07-26 06:43:11.050     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:11.052     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:11.052     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:11.052     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:11.059     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:11.062     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:11.063     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:11.064     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:11.064     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:11.066     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:11.070    45    45 I cm      : | | | '_ \ / _ \/ _` |/ _` |/ _ \/ _ \/ __| 
+07-26 06:43:11.071    29    29 I SensorHubService: HardwareSensorHub
+07-26 06:43:11.071    29    29 I SensorHubService: HardwareSensorHub
+07-26 06:43:11.071    29    46 D SensorHubService: nuSensorHubService thread starting...
+07-26 06:43:11.072    29    29 I sensorhubservice: SensorHubService is starting now........................................
+07-26 06:43:11.072     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:11.075     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:11.084    20    20 W McDaemon: Cannot open trustlet /system/app/mcRegistry/ffffffffd0000000000000000000001c.tlbin (2) [hardware/samsung_slsi/exynos7880/mobicore/Daemon/src/SecureWorld.cpp:178]
+07-26 06:43:11.087    20    20 I McDaemon: Daemon starting up... [hardware/samsung_slsi/exynos7880/mobicore/Daemon/src/MobiCoreDriverDaemon.cpp:564]
+07-26 06:43:11.087    20    20 I McDaemon: Interface version is 0.4 [hardware/samsung_slsi/exynos7880/mobicore/Daemon/src/MobiCoreDriverDaemon.cpp:566]
+07-26 06:43:11.087    20    20 I McDaemon: t-base-EXYNOS64-Android-310B-V007-20160505_211700_344 [hardware/samsung_slsi/exynos7880/mobicore/Daemon/src/MobiCoreDriverDaemon.cpp:568]
+07-26 06:43:11.087    47    47 I cm      : | | | | | |  __/ (_| | (_| |  __/ (_) \__ \ 
+07-26 06:43:11.088    20    20 I TeeDriverClient: driver client open [hardware/samsung_slsi/exynos7880/mobicore/ClientLib/src/driver_client.cpp:103]
+07-26 06:43:11.088    20    20 I TeeDriverClient: driver client closed [hardware/samsung_slsi/exynos7880/mobicore/ClientLib/src/driver_client.cpp:113]
+07-26 06:43:11.095     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:11.099    53    53 I cm      : |_|_|_| |_|\___|\__,_|\__, |\___|\___/|___/ 
+07-26 06:43:11.099     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:11.108    26    26 D SensorService: nuSensorService starting...
+07-26 06:43:11.113    54    54 I cm      :                       |___/ 
+07-26 06:43:11.123    26    26 D Sensors : activate handle 0, index 0
+07-26 06:43:11.123    26    26 D Sensors : mSensors[0]->enable err 0
+07-26 06:43:11.123    26    26 D Sensors : activate handle 3, index 2
+07-26 06:43:11.123    26    26 D Sensors : mSensors[2]->enable err 0
+07-26 06:43:11.123    26    26 D Sensors : activate handle 14, index 7
+07-26 06:43:11.123    26    26 D Sensors : mSensors[7]->enable err 0
+07-26 06:43:11.123    26    26 D Sensors : activate handle 1, index 1
+07-26 06:43:11.123    26    26 D Sensors : mSensors[1]->enable err 0
+07-26 06:43:11.123    26    26 D Sensors : activate handle 9, index 6
+07-26 06:43:11.123    26    26 D Sensors : mSensors[6]->enable err 0
+07-26 06:43:11.123    26    26 D Sensors : activate handle 4, index 4
+07-26 06:43:11.123    26    26 D Sensors : mSensors[4]->enable err 0
+07-26 06:43:11.123    26    26 D Sensors : activate handle 5, index 5
+07-26 06:43:11.123    26    26 D Sensors : mSensors[5]->enable err 0
+07-26 06:43:11.123    26    26 D Sensors : activate handle 6, index 3
+07-26 06:43:11.123    26    26 D Sensors : mSensors[3]->enable err 0
+07-26 06:43:11.123    26    26 D Sensors : activate handle 12, index 9
+07-26 06:43:11.123    26    26 D Sensors : mSensors[9]->enable err 0
+07-26 06:43:11.123    26    26 D Sensors : activate handle 15, index 10
+07-26 06:43:11.123    26    26 D Sensors : mSensors[10]->enable err 0
+07-26 06:43:11.123    26    26 D Sensors : activate handle 13, index 8
+07-26 06:43:11.123    26    26 D Sensors : mSensors[8]->enable err 0
+07-26 06:43:11.123    26    26 D Sensors : activate handle 29, index 11
+07-26 06:43:11.123    26    26 D Sensors : mSensors[11]->enable err 0
+07-26 06:43:11.123    26    26 D Sensors : activate handle 30, index 12
+07-26 06:43:11.123    26    26 D Sensors : mSensors[12]->enable err 0
+07-26 06:43:11.123    26    26 D Sensors : activate handle 27, index 13
+07-26 06:43:11.123    26    26 D Sensors : mSensors[13]->enable err 0
+07-26 06:43:11.125    26    26 E SensorService: Couldn't set SCHED_FIFO for SensorService thread
+07-26 06:43:11.125    26    58 D SensorService: new thread SensorEventAckReceiver
+07-26 06:43:11.125    26    59 D SensorService: nuSensorService thread starting...
+07-26 06:43:11.170    65    65 I cm      : Welcome to Android 7.1.1 / LineageOS-14.1-20180714-UNOFFICIAL-a5y17lte 
+07-26 06:43:11.182    67    67 I sysinit : Running /system/etc/init.d/90userinit 
+07-26 06:43:11.246    34    34 I mediacodec: @@@ mediacodecservice starting
+07-26 06:43:11.247    34    34 W /system/bin/mediacodec: libminijail: allowing syscall: clock_gettime
+07-26 06:43:11.247    34    34 W /system/bin/mediacodec: libminijail: allowing syscall: connect
+07-26 06:43:11.247    34    34 W /system/bin/mediacodec: libminijail: allowing syscall: fcntl64
+07-26 06:43:11.247    34    34 W /system/bin/mediacodec: libminijail: allowing syscall: socket
+07-26 06:43:11.247    34    34 W /system/bin/mediacodec: libminijail: allowing syscall: writev
+07-26 06:43:11.247    34    34 W /system/bin/mediacodec: libminijail: logging seccomp filter failures
+07-26 06:43:11.252    30    30 I cameraserver: ServiceManager: 0xf6599480
+07-26 06:43:11.252    30    30 I CameraService: CameraService started (pid=30)
+07-26 06:43:11.252    30    30 I CameraService: CameraService process starting
+07-26 06:43:11.252    30    30 W BatteryNotifier: batterystats service unavailable!
+07-26 06:43:11.252    30    30 W BatteryNotifier: batterystats service unavailable!
+07-26 06:43:11.254    30    30 V CameraWrapper: camera_init
+07-26 06:43:11.254    30    30 V CameraWrapper: check_vendor_module
+07-26 06:43:11.297    30    30 I ExynosCamera3Interface: INFO(HAL_init[675]):in =====
+07-26 06:43:11.297    30    30 I ExynosCamera3Interface: INFO(HAL_init[682]):out =====
+07-26 06:43:11.297    30    30 D ExynosCamera3Interface: DEBUG:duration time(    0 msec):(HAL_init)
+07-26 06:43:11.297    30    30 V CameraWrapper: camera_get_number_of_cameras
+07-26 06:43:11.297    30    30 V CameraWrapper: check_vendor_module
+07-26 06:43:11.297    30    85 I ExynosCamera3Interface: INFO(init_func[650]):in =====
+07-26 06:43:11.297    30    30 I CameraService: Loaded "Samsung Camera Wrapper" camera module
+07-26 06:43:11.297    30    30 V CameraWrapper: camera_get_number_of_cameras
+07-26 06:43:11.297    30    30 V CameraWrapper: check_vendor_module
+07-26 06:43:11.297    30    30 V CameraWrapper: camera_get_vendor_tag_ops
+07-26 06:43:11.297    30    30 V CameraWrapper: check_vendor_module
+07-26 06:43:11.298    30    30 V CameraWrapper: camera_get_number_of_cameras
+07-26 06:43:11.298    30    30 V CameraWrapper: check_vendor_module
+07-26 06:43:11.298    30    30 V CameraWrapper: camera_get_camera_info
+07-26 06:43:11.298    30    30 V CameraWrapper: check_vendor_module
+07-26 06:43:11.298    30    30 I ExynosCamera3Interface: INFO(HAL_getCameraInfo[417]):in =====
+07-26 06:43:11.298    30    30 D ExynosCameraMetadataConverter: DEBUG(constructStaticInfo[401]):ID(0)
+07-26 06:43:11.345    35    35 I mediaserver: ServiceManager: 0xf5f994e0
+07-26 06:43:11.364    35    35 W BatteryNotifier: batterystats service unavailable!
+07-26 06:43:12.562    36    36 V NatController: runCmd(/system/bin/iptables -w -F natctrl_FORWARD) res=0
+07-26 06:43:12.576    36    36 V NatController: runCmd(/system/bin/ip6tables -w -F natctrl_FORWARD) res=0
+07-26 06:43:12.584    36    36 V NatController: runCmd(/system/bin/iptables -w -A natctrl_FORWARD -j DROP) res=0
+07-26 06:43:12.592    36    36 V NatController: runCmd(/system/bin/iptables -w -t nat -F natctrl_nat_POSTROUTING) res=0
+07-26 06:43:12.599    36    36 V NatController: runCmd(/system/bin/ip6tables -w -t raw -F natctrl_raw_PREROUTING) res=0
+07-26 06:43:12.607    36    36 V NatController: runCmd(/system/bin/iptables -w -F natctrl_tether_counters) res=1
+07-26 06:43:12.615    36    36 V NatController: runCmd(/system/bin/ip6tables -w -F natctrl_tether_counters) res=1
+07-26 06:43:12.622    36    36 V NatController: runCmd(/system/bin/iptables -w -X natctrl_tether_counters) res=1
+07-26 06:43:12.630    36    36 V NatController: runCmd(/system/bin/ip6tables -w -X natctrl_tether_counters) res=1
+07-26 06:43:12.638    36    36 V NatController: runCmd(/system/bin/iptables -w -N natctrl_tether_counters) res=0
+07-26 06:43:12.646    36    36 V NatController: runCmd(/system/bin/ip6tables -w -N natctrl_tether_counters) res=0
+07-26 06:43:12.654    36    36 V NatController: runCmd(/system/bin/iptables -w -t mangle -A natctrl_mangle_FORWARD -p tcp --tcp-flags SYN SYN -j TCPMSS --clamp-mss-to-pmtu) res=0
+07-26 06:43:12.654    30    85 I ExynosCamera3Interface: INFO(init_func[664]):out =====
+07-26 06:43:12.654    30    85 D ExynosCamera3Interface: DEBUG:duration time( 1357 msec):(init_func)
+07-26 06:43:12.732    36    36 D MDnsDS  : MDnsSdListener::Hander starting up
+07-26 06:43:12.732    36   278 D MDnsDS  : MDnsSdListener starting to monitor
+07-26 06:43:12.732    36   278 D MDnsDS  : Going to poll with pollCount 1
+07-26 06:43:12.739    30    30 D ExynosCameraUtils: DEBUG(getSensorIdFromFile[1792]):Sensor name is 30
+07-26 06:43:12.739    30    30 D ExynosCameraUtils: (3)
+07-26 06:43:12.740    30    30 V CameraWrapper: camera_get_camera_info
+07-26 06:43:12.740    30    30 V CameraWrapper: check_vendor_module
+07-26 06:43:12.740    30    30 I ExynosCamera3Interface: INFO(HAL_getCameraInfo[417]):in =====
+07-26 06:43:12.740    30    30 D ExynosCameraMetadataConverter: DEBUG(constructStaticInfo[401]):ID(1)
+07-26 06:43:12.740    30    30 D ExynosCameraUtils: DEBUG(getSensorIdFromFile[1792]):Sensor name is 30
+07-26 06:43:12.740    30    30 D ExynosCameraUtils: (3)
+07-26 06:43:12.740    30    30 D ExynosCameraMetadataConverter: DEBUG(m_createControlAvailableHighSpeedVideoConfigurations[3873]) Front camera does not support High Speed Video
+07-26 06:43:12.740    30    30 D ExynosCameraMetadataConverter: DEBUG(constructStaticInfo[540]):ANDROID_CONTROL_AVAILABLE_HIGH_SPEED_VIDEO_CONFIGURATIONS is NULL
+07-26 06:43:12.741    30    30 V CameraWrapper: camera_set_callbacks
+07-26 06:43:12.741    30    30 V CameraWrapper: check_vendor_module
+07-26 06:43:12.741    30    30 D ExynosCamera3Interface: DEBUG:duration time(    0 msec):(HAL_set_callbacks)
+07-26 06:43:12.741    30    30 I ServiceManager: Waiting for service media.camera.proxy...
+07-26 06:43:13.741    30    30 I ServiceManager: Waiting for service media.camera.proxy...
+07-26 06:43:14.741    30    30 I ServiceManager: Waiting for service media.camera.proxy...
+07-26 06:43:15.352     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:15.352    36   273 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:15.742    30    30 I ServiceManager: Waiting for service media.camera.proxy...
+07-26 06:43:19.072     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:19.073    36   273 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:19.980     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:19.980    36   273 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:19.984     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:19.984    36   273 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:20.088     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:20.088    36   273 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:20.090     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:20.090    36   273 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:29.196    36   273 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:29.196     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:39.320     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:39.320    36   273 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:41.870     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:41.871    36   273 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:49.527     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:49.527    36   273 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:59.650     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:43:59.650    36   273 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:44:09.774    36   273 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:44:09.774     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:44:20.219     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:44:20.219    36   273 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:44:30.425    36   273 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:44:30.425     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:44:40.629    36   273 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:44:40.629     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:44:51.023    36   273 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:44:51.023     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:45:21.124     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:45:21.124    36   273 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:45:51.226    36   273 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:45:51.226     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:46:21.328     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:46:21.328    36   273 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:46:51.432     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:46:51.432    36   273 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:47:21.535    36   273 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:47:21.535     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:47:51.638     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:47:51.638    36   273 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:48:21.741     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:48:21.741    36   273 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:48:51.850    36   273 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:48:51.850     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:49:21.947    36   273 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:49:21.947     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:49:52.048     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:49:52.048    36   273 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:50:22.152    36   273 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:50:22.152     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:50:52.254    36   273 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:50:52.254     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:51:22.356    36   273 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:51:22.356     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:51:52.461    36   273 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:51:52.461     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:52:22.562     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:52:22.562    36   273 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:52:52.663     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:52:52.663    36   273 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:53:22.777     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:53:22.777    36   273 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:53:52.879    36   273 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:53:52.880     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:54:22.983     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:54:22.983    36   273 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:54:53.085     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:54:53.085    36   273 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:55:23.187     8    16 E NetlinkListener: recvmsg failed (I/O error)
+07-26 06:55:23.188    36   273 E NetlinkListener: recvmsg failed (I/O error)
